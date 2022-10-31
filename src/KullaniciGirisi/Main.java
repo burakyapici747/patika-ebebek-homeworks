@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
         String username, password, choice, newPassword ;
         final Scanner scanner = new Scanner(System.in);
 
