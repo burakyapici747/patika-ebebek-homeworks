@@ -1,4 +1,4 @@
-package DikUcgendeHipotenusBulanProgram;
+package UcgeninAlanininBulanProgram;
 
 import java.util.Scanner;
 
